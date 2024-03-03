@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerichoexe
-- 🌱 I have experience in C, HTMl/CSS, and Java.
+- 🌱 I have experience in C, HTMl/CSS, Java, Python, TS, as well as experience with SQL and MongoDB.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me at my email, itsonlyjer@icloud.com
 
